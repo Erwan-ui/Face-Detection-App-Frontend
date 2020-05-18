@@ -1,0 +1,8 @@
+.lightMode {
+    background: linear-gradient(to right, #2B32B2, #1488CC);
+  }
+  
+  .darkMode {
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    color: white;
+  }

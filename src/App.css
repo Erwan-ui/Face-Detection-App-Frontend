@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.lightMode {
+  background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+
+.darkMode {
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+  color: white;
+}
